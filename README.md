@@ -2,11 +2,11 @@
 <hr>
 
 <div align="center">
-<h3>🌸 Alexa Developer Team 👤</h3>
+<h3>♻️SILENT-SOBX-MD DEVELOPER TEAM 👤</h3>
 
-| Sadeesha 👤             | Vihanga 👤            |                        
+| SILENTLOVER👤             | DARK DEVIL 👤            |                        
 |----------------------|----------------------|
-| [![Owner](https://github.com/SILENTLOVER40.png)](https://github.com/SILENTLOVER40) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
+| [![SILENTLOVER](https://telegra.ph/file/e47b23583ab7ec42d58df.jpg)](https://github.com/SILENTLOVER40) | [![UMARDEVIL](https://github.com/Um4r719.png)](https://github.com/Um4r719)
 </div>
 <hr>
 <div align="center">
