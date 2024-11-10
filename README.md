@@ -128,14 +128,13 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
 
-<br>
+----------
 
 <p align="center">
-<a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/SESSION ID:1-red?style=for-the-badge&logo=render"></a>
+<a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-yellow?style=for-the-badge&logo=render"></a>
 <p/>
 
-<br>
-
+----------
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
