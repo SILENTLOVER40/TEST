@@ -113,17 +113,15 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 
 `✠ HOW TO DEPLOY SILENT-SOBX-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
 
-<br>
+-------------
+
 <p align="center">
    <a href="https://youtu.be/koyMJgbhJSg?si=x-bXqVOajxOIUj80"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
-</p> 
+</p>
 
-`✠ IF YOU DON'T HAVE YOUR PRIVATE MONGODB KEY SO YOU CAN USE THIS PUBLIC KEY FOR DEPLOY SILENT-SOBX-MD BOT ✠`
+---------------
 
-```
-mongodb+srv://su7465058:it583k0A4NbDPlE4@cluster0.eawwp3y.mongodb.net/?retryWrites=true&w=majority
-```
 
 ### <br>    ❖ SESSION_ID ❖
 
