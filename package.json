@@ -1,15 +1,15 @@
 {
-  "name": "SILENT-SOBX-MD",
+  "name": "TEST",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SILENT-SOBX-MD",
-    "stop": "pm2 stop SILENT-SOBX-MD",
-    "restart": "pm2 restart SILENT-SOBX-MD"
+    "stop": "pm2 stop TEST",
+    "restart": "pm2 restart TEST"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "6.7.8",
+    "@whiskeysockets/baileys": "6.7.9",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@stablelib/x25519-session": "2.0.0",
     "@types/android-versions": "1.8.3",
